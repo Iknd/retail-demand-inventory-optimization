@@ -1,6 +1,6 @@
 # 📦 Multi-SKU Retail Demand Forecasting & Inventory Optimization
 
-**Live Interactive Dashboard:** [Insert Your Streamlit App URL Here]
+**Live Interactive Dashboard:** [https://retail-demand-inventory-optimization-ybvtekw9bhrv9h33q8bvg3.streamlit.app/]
 
 ## 📌 Business Problem
 Retail supply chains face a constant trade-off between **stockouts (lost revenue)** and **overstocking (working capital & holding costs)**. Standard moving-average heuristics fail on SKU-level retail demand due to high intermittency (**55.2% zero-sales days**), weekend spikes (**+53% volume surge**), and promotional price elasticity.
